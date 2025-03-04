@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Access"
+AuthUserFile /home/project/admin/.htpasswd
+Require valid-user

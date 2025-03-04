@@ -1,0 +1,4 @@
+[
+  {"id": 1, "date": "2024-12-20", "time": "11:00 AM - 2:00 PM", "location": "Downtown Park", "address": "123 Main St, Anytown", "status": "active"},
+  {"id": 2, "date": "2024-12-21", "time": "10:00 AM - 1:00 PM", "location": "City Square", "address": "456 Elm St, Anytown", "status": "active"}
+]
